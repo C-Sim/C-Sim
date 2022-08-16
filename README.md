@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cherelle</h1>
 <h3 align="center">A passionate full-stack developer from the UK</h3>
 
-- 🌱 I’m currently learning **React, MongoDB, MERN, PWA**
+- 🌱 Currently upskilling in **React, MongoDB, MERN**
 
 - 👨‍💻 All of my projects are available at [https://c-sim.github.io/portfolio/](https://c-sim.github.io/portfolio/)
 
