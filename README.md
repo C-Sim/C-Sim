@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cherelle</h1>
 <h3 align="center">A skilled full-stack developer from the UK</h3>
 
-- 🌱 Currently upskilling in **React, MongoDB, MERN**
+- 🌱 Currently upskilling in **React, Typescript, MERN**
 
 - 👨‍💻 All of my projects are available [here](https://c-sim.github.io/portfolio-react/).
 
